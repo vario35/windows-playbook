@@ -38,9 +38,9 @@ choco_installed_packages:
   - name: adobereader
     version: "2022.002.20191"
   # installs latest version of the Firefox while ignoring the package checksum
-  - name: Firefox
-    state: latest
-    choco_args: --ignorechecksum
+  #- name: Firefox
+  #  state: latest
+  #  choco_args: --ignorechecksum
   # installs awscli, but won't update it
   #- awscli
   - Firefox
