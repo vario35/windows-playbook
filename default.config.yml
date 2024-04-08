@@ -5,7 +5,7 @@ custom_hostname: windows-ansible
 configure_start_menu: true
 configure_taskbar: true
 disable_mouse_acceleration: true
-remote_desktop_enabled: true
+remote_desktop_enabled: false
 remove_desktop_icons: false
 set_sound_scheme: true
 
@@ -133,7 +133,7 @@ bloatware:
   - Microsoft.ZuneVideo
   - MicrosoftTeams
 
-configure_storage_sense: true
+configure_storage_sense: false
 storage_sense:
   enabled: true
   run_frequency: 1
