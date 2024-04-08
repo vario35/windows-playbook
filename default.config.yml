@@ -9,7 +9,7 @@ remote_desktop_enabled: false
 remove_desktop_icons: false
 set_sound_scheme: true
 
-install_windows_updates: true
+install_windows_updates: false
 windows_updates_reboot: true
 update_categories:
   # You can install only specific updates by uncommenting it
@@ -26,7 +26,7 @@ update_categories:
   # - Updates
   # - Upgrades
 
-change_power_plan: true
+change_power_plan: false
 # high_performance
 # balanced
 # power_saver
