@@ -46,11 +46,11 @@ choco_installed_packages:
   - Firefox
   - git
   #- golang
-  - jre8
+  #- jre8
   #- kubernetes-cli
-  - microsoft-windows-terminal
+  #- microsoft-windows-terminal
   - peazip
-  - powertoys
+  #- powertoys
   - python3
   #- sharex
   #- telegram
