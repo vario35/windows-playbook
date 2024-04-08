@@ -59,7 +59,7 @@ choco_installed_packages:
   - vscode
   - zoom
 
-install_winget_packages: true
+install_winget_packages: false
 winget_packages:
   # - name: "Auto Dark Mode"
   #   source: winget
@@ -92,7 +92,7 @@ windows_features:
 install_wsl2: true
 wsl2_distribution: wsl-ubuntu-2004
 
-remove_bloatware: true
+remove_bloatware: false
 bloatware:
   - Microsoft.BingNews
   - Microsoft.BingWeather
