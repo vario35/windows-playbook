@@ -35,8 +35,8 @@ power_plan: "high_performance"
 install_chocolatey_packages: true
 choco_installed_packages:
   # installs 2019.2.2.20191 version of the adobe reader
-  - name: adobereader
-    version: "2022.002.20191"
+  #- name: adobereader
+  #  version: "2022.002.20191"
   # installs latest version of the Firefox while ignoring the package checksum
   #- name: Firefox
   #  state: latest
@@ -44,14 +44,14 @@ choco_installed_packages:
   # installs awscli, but won't update it
   #- awscli
   - Firefox
-  - git
+  #- git
   #- golang
   #- jre8
   #- kubernetes-cli
   #- microsoft-windows-terminal
   - peazip
   #- powertoys
-  - python3
+  #- python3
   #- sharex
   #- telegram
   #- terraform
