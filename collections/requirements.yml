@@ -1,5 +1,5 @@
 ---
 collections:
-  - name: ansible.windows --allow-unsupported-ansible-version
+  - name: ansible.windows
   - name: chocolatey.chocolatey
-  - name: community.windows --allow-unsupported-ansible-version
+  - name: community.windows
