@@ -65,6 +65,8 @@ winget_packages:
   #   source: winget
   - name: WinDynamicDesktop
     source: winget
+  - name: Mozilla.Firefox
+    source: winget
 
 
 install_fonts: false
