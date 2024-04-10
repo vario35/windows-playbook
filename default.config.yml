@@ -94,6 +94,7 @@ wsl2_distribution: wsl-ubuntu-2004
 
 remove_bloatware: true
 bloatware:
+  - Microsoft.Edge
   - Microsoft.BingNews
   - Microsoft.BingWeather
   - Microsoft.GamingApp
