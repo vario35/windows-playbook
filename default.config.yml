@@ -76,7 +76,7 @@ install_ohmyposh: true
 ohmyposh_theme: atomic
 
 # List of features: "Get-WindowsOptionalFeature -Online"
-install_windows_features: true
+install_windows_features: false
 windows_features:
   Microsoft-Hyper-V: true
 
