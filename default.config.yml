@@ -1,6 +1,6 @@
 ---
 configure_explorer: true
-configure_hostname: true
+configure_hostname: false
 custom_hostname: windows01
 configure_start_menu: true
 configure_taskbar: true
