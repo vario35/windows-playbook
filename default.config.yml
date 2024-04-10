@@ -72,7 +72,7 @@ installed_nerdfonts:
   - FiraCode
   - FantasqueSansMono
 
-install_ohmyposh: true
+install_ohmyposh: false
 ohmyposh_theme: atomic
 
 # List of features: "Get-WindowsOptionalFeature -Online"
