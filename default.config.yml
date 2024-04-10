@@ -93,7 +93,7 @@ windows_features:
 install_wsl2: false
 wsl2_distribution: wsl-ubuntu-2004
 
-remove_bloatware: false
+remove_bloatware: true
 bloatware:
   - Microsoft.Edge
   - Microsoft.BingNews
